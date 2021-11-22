@@ -14,7 +14,7 @@ class Array
         {
             cin>>a1[i];
         }
-        cout<<"Enter 3 sorted elements in second array and also different for the elements in first array:";
+        cout<<"Enter 3 sorted elements in second array and also different from the elements in first array:";
         for(i=0;i<3;i++)
         {
             cin>>a2[i];
